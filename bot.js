@@ -140,8 +140,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  Soon :scroll:
+         :hearts: الموقع الرسمي للبوت قريب ♥ :hearts: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -152,8 +152,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  Soon :scroll:
+         :hearts: الموقع الرسمي للبوت Soon  :hearts: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -164,8 +164,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  Soon :scroll:
+         :hearts: الموقع الرسمي للبوت Soon  :hearts: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -176,8 +176,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  Soon :scroll:
+         :hearts: الموقع الرسمي للبوت soon :hearts: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -188,8 +188,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  Soon  :scroll:
+         :hearts: الموقع الرسمي للبوت Soon  :hearts: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -401,7 +401,7 @@ client.on('message', message => {
       if (message.content === "-help-a") {
        const embed = new Discord.RichEmbed() 
            .setColor("#FF00FF")
-           .setFooter('By *LEGEND_YT#4537  ')
+           .setFooter('By Mahmoud Youssef#1110  ')
            .setDescription(`**__أتمنى يعجبكم البوت يا أغلى ناس:revolving_hearts: __**`)
      message.author.sendEmbed(embed)
      
